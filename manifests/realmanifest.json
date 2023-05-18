@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://leobazzurro.github.io/FlagBook3/manifests/realmanifest.json",
   "@type" : "sc:Manifest",
-  "label" : " Flag Book",
+  "label" : "Flag Book",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Perspectives of a Flag Book",
@@ -99,7 +99,7 @@
     }, {
       "@id" : "http://4063b43b-a16e-4928-b93b-f9323fc4b2ff",
       "@type" : "sc:Canvas",
-      "label" : "side view",
+      "label" : "Side View",
       "height" : 3456,
       "width" : 4608,
       "images" : [ {
