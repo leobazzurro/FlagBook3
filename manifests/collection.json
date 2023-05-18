@@ -1,0 +1,13 @@
+{
+  "id" : "https://leobazzurro.github.io/FlagBook3/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in leobazzurro/FlagBook3 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://leobazzurro.github.io/FlagBook3/manifests/manifest3.json",
+    "label" : " Flag Book Cover"
+  } ]
+}
